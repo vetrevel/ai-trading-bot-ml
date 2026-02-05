@@ -1,0 +1,3 @@
+2026-01-20 09:26:37,596 - ERROR - Market order error: APIError(code=-2014): API-key format invalid.
+2026-01-21 20:58:05,495 - ERROR - Market order error: APIError(code=-2014): API-key format invalid.
+2026-01-21 21:12:06,505 - ERROR - Market order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
